@@ -7,3 +7,4 @@ numero
 2 
 de git hub
 He cambiado el texto2
+>>>>>>> eb89d22d329dd1e023b712d4d9d59b253c4a552a
